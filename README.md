@@ -18,10 +18,16 @@ This is a simple Number Guessing Game built with JavaScript. The game generates 
 4. If you guess correctly, the background will change to green and the secret number will be displayed.
 5. If you lose, the background will turn red and the secret number will be revealed.
 6. Click the "Play Again" button to restart the game.
+---
+## Disclaimer
+
+This project was created as part of my learning process during a JavaScript course. It is a simple, educational project aimed at helping me practice and understand core concepts of JavaScript, HTML, and CSS. While it may not be fully optimized or feature-complete, it serves as a valuable step in my journey to becoming a skilled developer. Please feel free to contribute or make improvements!
+---
 
 ## Getting Started
 
 Clone or download the repository to your local machine. Open the `index.html` file in your browser to start playing the game.
 
 ```bash
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/MKBM165/number-guessing-game.git
+

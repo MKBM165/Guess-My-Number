@@ -29,5 +29,5 @@ This project was created as part of my learning process during a JavaScript cour
 Clone or download the repository to your local machine. Open the `index.html` file in your browser to start playing the game.
 
 ```bash
-git clone https://github.com/MKBM165/number-guessing-game.git
+git clone https://github.com/MKBM165/Guess-My-Number.git
 

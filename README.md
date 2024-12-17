@@ -2,6 +2,11 @@
 
 This is a simple Number Guessing Game built with JavaScript. The game generates a random secret number between 1 and 20, and the player needs to guess it. The game provides feedback on whether the guess is too high, too low, or correct. It also tracks the player's score and the highest score achieved during the game.
 
+## Technologies Used:
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white) HTML
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white) CSS
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white) JavaScript
+
 ## Features
 
 - Guess the secret number between 1 and 20.
